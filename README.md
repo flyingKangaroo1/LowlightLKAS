@@ -1,4 +1,6 @@
 # LowlightLKAS (Lane Keeping Assitance)
+2024 동계 URP 프로젝트
+팀원: 황석민, 범민규, 안근호
 
 ## Environment
 - OS: Ubuntu 20.04
@@ -37,9 +39,9 @@ rosrun srlpkg control.py
 ```
 
 ## 실행 영상
-1. Zero-DCE 저조도 개선 모델
+- Zero-DCE 저조도 개선 모델
 ![1](https://github.com/user-attachments/assets/f4dc76fc-7d61-4daf-b71e-13c10c2e1be8)
-2. SRLane 차선 인식 모델
+- SRLane 차선 인식 모델
 ![2](https://github.com/user-attachments/assets/21918ec1-7d3a-4f89-a1fd-e57f4f92832a)
-3. 통합 모델
+- 통합 모델
 ![3](https://github.com/user-attachments/assets/f47a1a9b-875c-4c12-9ecd-6e1be572cfd2)
