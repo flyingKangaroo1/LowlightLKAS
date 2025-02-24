@@ -1,7 +1,10 @@
 # LowlightLKAS (Lane Keeping Assitance)
 2024 동계 URP 프로젝트  
+
+주제: 저조도 환경에서의 카메라 기반 차선 인식 및 LKAS 모듈 개발​​  
   
 팀원: 황석민, 범민규, 안근호  
+
 
 ## Environment
 - OS: Ubuntu 20.04
