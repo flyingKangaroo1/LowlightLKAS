@@ -1,6 +1,6 @@
 # LowlightLKAS (Lane Keeping Assitance)
-2024 동계 URP 프로젝트
-팀원: 황석민, 범민규, 안근호
+2024 동계 URP 프로젝트  
+팀원: 황석민, 범민규, 안근호  
 
 ## Environment
 - OS: Ubuntu 20.04
