@@ -1,5 +1,21 @@
 # LowlightLKAS (Lane Keeping Assitance)
+## 실행 영상
 ![1](https://github.com/user-attachments/assets/f4dc76fc-7d61-4daf-b71e-13c10c2e1be8)
+![2](https://github.com/user-attachments/assets/21918ec1-7d3a-4f89-a1fd-e57f4f92832a)
+![3](https://github.com/user-attachments/assets/f47a1a9b-875c-4c12-9ecd-6e1be572cfd2)
+
+## Environment
+- OS: Ubuntu 20.04
+- Board: NVIDIA Jetson Orin, Intel Core i9 processor 14900K
+- 로봇: Agilex Ranger Mini 3.0
+- 카메라: Allied Vision Prosilica GT2000
+
+## Dependency
+- ROS1/Noetic
+- OpenCV/4.2.0
+- PyTorch
+- CUDA
+
 ## 센서 실행법
 - 로봇
 ```
